@@ -23,7 +23,9 @@ Ukoliko ste u mogucnosti da stampate vizire upisite se u [formu](https://docs.go
 
 ## Bitno!!
 
-Jako je vazno da sa svakim printom rukujete kao da imate COVID19. Nosite maske i rukavice da bismo smanjili rizik.
+- Jako je vazno da sa svakim printom rukujete kao da imate COVID19. Nosite maske i rukavice da bismo smanjili rizik.
+- Jos uvek ne stampati ventile dok ne saznamo koji je tacno model
+
 
 # Jos informacija
 
