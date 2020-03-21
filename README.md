@@ -14,7 +14,7 @@ Parametri su sledeci:
 - 30% infil
     
 STL se nalazi [ovde](stl/covid19_shield_r1.stl), original [link](https://www.prusaprinters.org/prints/25857-protective-face-shield-rc1)
-Uz ovo se stampa i donje ojacanje(bottom reinforcment shield), STL se nalazi [ovde](stl/bottom_reinforcment.stl).
+Uz ovo se stampa i donje ojacanje(bottom reinforcment shield), STL se nalazi [ovde](stl/bottom_reinforcement.stl).
 Idealan materijal je PET-G i nGen. Ukoliko nemata stampajte sa onim sto imate, svaki komad je vazan.
 
 Do 23.3. se stampa posle toga se odnose. Najbolje bi bilo da ih odnesete do [Polyhedra3D](https://www.facebook.com/Polyhedra3D/), ukoliko ne mozete ostavite poruku i neko ce proci pored vas da pokupi. 
