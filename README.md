@@ -5,6 +5,8 @@
 - [Open Source COVID19 Medical Supplies](https://www.facebook.com/groups/opensourcecovid19medicalsupplies/)
 
 ## Vizir
+
+
 Sluze za zastitu od kapljicnog prenosa.
 Stampa se verzija **RC1** zbog brzine.
 Parametri su sledeci: 
@@ -24,6 +26,7 @@ Ukoliko ste u mogucnosti da stampate vizire upisite se u [formu](https://docs.go
 ## Bitno!!
 
 - Jako je vazno da sa svakim printom rukujete kao da imate COVID19. Nosite maske i rukavice da bismo smanjili rizik.
+- Pratite [uputstvo](pdf/Uputstvo-za-dezinfekciju-vizira.pdf) za dezinfekciju vizira
 - Jos uvek ne stampati ventile dok ne saznamo koji je tacno model
 
 
